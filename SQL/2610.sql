@@ -1,0 +1,1 @@
+Select cast(AVG (PRICE)AS NUMERIC(10,2)) from Products;
